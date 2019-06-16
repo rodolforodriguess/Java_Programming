@@ -38,7 +38,7 @@ public class DollarGame {
         }else if (total < 100 ){
             System.out.println("You went " + (100 - total) + " under 1$. Sorry!");
         }else{
-            System.out.println("You went " + (total - 100) + " over 1$. Sorry. That's more than one dollar.");
+            System.out.println("You went " + (total - 100) + " over 1$. Sorry. That's more than one dollar");
         }
     }
 }
