@@ -3,11 +3,11 @@ package chapter6;
 public class HomeAreaCalculator {
 
     public static void main(String args[]){
-        /*******************8
+        /********************
         RECTANGLE 1
          ****************/
 
-        //Create an instace of the Rectangle class
+        //Create an instance of the Rectangle class
         Rectangle room1 = new Rectangle();
         room1.setWidth(25);
         room1.setLength(50);
