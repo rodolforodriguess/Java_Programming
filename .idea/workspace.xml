@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="">
+    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Object instantion lessons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/HomeAreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/HomeAreaCalculator.java" afterDir="false" />
     </list>
     <list id="f9d9bf0c-88a4-4b6d-a692-4b9749e5922e" name="Revert: Dollar game done sucessfully" comment="Revert: Dollar game done sucessfull" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,24 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding>
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter6/HomeAreaCalculatorRedo.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter7/LotterytTicket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-457">
-              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+            <state relative-caret-position="19">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -87,6 +73,9 @@
         <option value="$PROJECT_DIR$/src/chapter6/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/chapter6/HomeAreaCalculator.java" />
         <option value="$PROJECT_DIR$/src/chapter6/HomeAreaCalculatorRedo.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/MonthConverter.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/Month.java" />
+        <option value="$PROJECT_DIR$/src/Chapter7/LotterytTicket.java" />
       </list>
     </option>
   </component>
@@ -110,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,7 +116,7 @@
               <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
@@ -138,6 +126,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,18 +153,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HomeAreaCalculator">
+  <component name="RunManager" selected="Application.LotterytTicket">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-    </configuration>
-    <configuration name="Greetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.Greetings" />
-      <module name="java_course" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="HomeAreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6.HomeAreaCalculator" />
@@ -193,16 +174,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBillCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.PhoneBillCalculator" />
+    <configuration name="LotterytTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.LotterytTicket" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RollingADie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.RollingADie" />
+    <configuration name="MonthConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.MonthConverter" />
+      <module name="java_course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBillCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.PhoneBillCalculator" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -223,19 +212,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Greetings" />
       <item itemvalue="Application.InstantCreditChecker" />
       <item itemvalue="Application.PhoneBillCalculator" />
-      <item itemvalue="Application.RollingADie" />
       <item itemvalue="Application.HomeAreaCalculator" />
+      <item itemvalue="Application.MonthConverter" />
+      <item itemvalue="Application.LotterytTicket" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LotterytTicket" />
+        <item itemvalue="Application.MonthConverter" />
         <item itemvalue="Application.HomeAreaCalculator" />
         <item itemvalue="Application.PhoneBillCalculator" />
         <item itemvalue="Application.InstantCreditChecker" />
-        <item itemvalue="Application.Greetings" />
-        <item itemvalue="Application.RollingADie" />
       </list>
     </recent_temporary>
   </component>
@@ -279,8 +268,31 @@
       <option name="project" value="LOCAL" />
       <updated>1560649567246</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Object instantion lessons">
+      <created>1561781994125</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561781994125</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Object instantion lessons">
+      <created>1561782153301</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561782153301</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -298,9 +310,9 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49878544" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32920355" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49878544" weight="0.5222025" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50121456" side_tool="true" weight="0.32920355" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -314,7 +326,7 @@
       <window_info anchor="right" id="Maven" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27044535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28016195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,15 +335,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32920355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49878544" weight="0.32920355" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32920355" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49878544" weight="0.5222025" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50121456" side_tool="true" weight="0.32920355" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32920355" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -340,6 +352,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32955465" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -395,7 +408,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dollar game done sucessfully" />
     <MESSAGE value="Revert: Dollar game done sucessfully" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert: Dollar game done sucessfully" />
+    <MESSAGE value="Object instantion lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Object instantion lessons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -568,15 +582,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/HomeAreaCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="68">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
             <element signature="e#678#679#0" expanded="true" />
             <element signature="e#715#716#0" expanded="true" />
@@ -584,10 +598,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/MonthConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/Month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/HomeAreaCalculatorRedo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-457">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        <state relative-caret-position="257">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter7/LotterytTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
