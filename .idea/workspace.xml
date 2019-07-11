@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Object instantion lessons">
+    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Creating an array, storing random number in it and looping through it.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter7/LotterytTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter7/LotterytTicket.java" afterDir="false" />
     </list>
     <list id="f9d9bf0c-88a4-4b6d-a692-4b9749e5922e" name="Revert: Dollar game done sucessfully" comment="Revert: Dollar game done sucessfull" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,8 +21,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Chapter7/LotterytTicket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="-476">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,36 +102,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -212,11 +187,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InstantCreditChecker" />
-      <item itemvalue="Application.PhoneBillCalculator" />
       <item itemvalue="Application.HomeAreaCalculator" />
-      <item itemvalue="Application.MonthConverter" />
+      <item itemvalue="Application.InstantCreditChecker" />
       <item itemvalue="Application.LotterytTicket" />
+      <item itemvalue="Application.MonthConverter" />
+      <item itemvalue="Application.PhoneBillCalculator" />
     </list>
     <recent_temporary>
       <list>
@@ -282,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561782153301</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creating an array, storing random number in it and looping through it.">
+      <created>1562207889595</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562207889595</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -296,6 +278,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28016195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -409,7 +392,8 @@
     <MESSAGE value="Dollar game done sucessfully" />
     <MESSAGE value="Revert: Dollar game done sucessfully" />
     <MESSAGE value="Object instantion lessons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Object instantion lessons" />
+    <MESSAGE value="Creating an array, storing random number in it and looping through it." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating an array, storing random number in it and looping through it." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -621,8 +605,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter7/LotterytTicket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="-476">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
