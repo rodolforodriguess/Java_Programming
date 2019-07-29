@@ -5,7 +5,7 @@ public class Employee extends Person{
     private String title;
 
     public Employee(){
-        super("Rodolfo");
+        super();
         System.out.println(("In Employee default constructor"));
     }
 

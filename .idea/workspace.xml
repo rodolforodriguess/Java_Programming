@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Arrays">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Inheritance and password validator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter2/DrinksDayPerSeason.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter2/DrinksDayPerSeason.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter2/GrossPayCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter2/GrossPayCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter3/DollarGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter3/DollarGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter3/GradeMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter3/GradeMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter3/LoanQualifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter3/LoanQualifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter3/LogicalOperatorLoanQualifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter3/LogicalOperatorLoanQualifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter3/QuotaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter3/QuotaCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter3/SalaryCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter3/SalaryCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter3/TestResults.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter3/TestResults.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/AddNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/AddNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/AverageTestScores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/AverageTestScores.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/Cashier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/Cashier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/GrossPayInputValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/GrossPayInputValidation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/LetterSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/LetterSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter4/RollingADie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter4/RollingADie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter5/Greetings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter5/Greetings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter5/InstantCreditChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter5/InstantCreditChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter5/PhoneBillCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter5/PhoneBillCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter6/HomeAreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter6/HomeAreaCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_course/chapter6/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_course/chapter6/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/DollarGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/DollarGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/Employee.java" afterDir="false" />
     </list>
     <list id="f9d9bf0c-88a4-4b6d-a692-4b9749e5922e" name="Revert: Dollar game done sucessfully" comment="Revert: Dollar game done sucessfull" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,12 +36,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="342" />
-    <option name="y" value="48" />
-    <option name="width" value="1401" />
-    <option name="height" value="981" />
-  </component>
   <component name="ProjectId" id="1OcJpc1weRd3ry9pBHwNe2OLzYy" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -91,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TextProcessor">
+  <component name="RunManager" selected="Application.InheritanceTester">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -104,16 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.Grades" />
+    <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.InheritanceTester" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotterytTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.LotterytTicket" />
+    <configuration name="PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.PasswordValidator" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -151,18 +124,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.DayOfTheWeek" />
-      <item itemvalue="Application.Grades" />
-      <item itemvalue="Application.LotterytTicket" />
       <item itemvalue="Application.Testing" />
       <item itemvalue="Application.TextProcessor" />
+      <item itemvalue="Application.PasswordValidator" />
+      <item itemvalue="Application.InheritanceTester" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceTester" />
+        <item itemvalue="Application.PasswordValidator" />
         <item itemvalue="Application.TextProcessor" />
         <item itemvalue="Application.DayOfTheWeek" />
         <item itemvalue="Application.Testing" />
-        <item itemvalue="Application.Grades" />
-        <item itemvalue="Application.LotterytTicket" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563934640671</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Inheritance">
+      <created>1564276891135</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1564276891135</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Inheritance and password validator">
+      <created>1564276933451</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1564276933451</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -305,7 +292,9 @@
     <MESSAGE value="Arrays lesson two" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Tips to loop through strings and changing its values" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tips to loop through strings and changing its values" />
+    <MESSAGE value="Inheritance" />
+    <MESSAGE value="Inheritance and password validator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance and password validator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
