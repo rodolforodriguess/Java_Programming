@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Inheritance and password validator">
+    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Overriding and Overloading methods in an inheritance context">
+      <change afterPath="$PROJECT_DIR$/src/chapter9/TasteTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" afterDir="false" />
     </list>
     <list id="f9d9bf0c-88a4-4b6d-a692-4b9749e5922e" name="Revert: Dollar game done sucessfully" comment="Revert: Dollar game done sucessfull" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InheritanceTester">
+  <component name="RunManager" selected="Application.TasteTester">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -93,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.Testing" />
+    <configuration name="TasteTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.TasteTester" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -124,18 +125,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.DayOfTheWeek" />
-      <item itemvalue="Application.Testing" />
       <item itemvalue="Application.TextProcessor" />
       <item itemvalue="Application.PasswordValidator" />
       <item itemvalue="Application.InheritanceTester" />
+      <item itemvalue="Application.TasteTester" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TasteTester" />
         <item itemvalue="Application.InheritanceTester" />
         <item itemvalue="Application.PasswordValidator" />
         <item itemvalue="Application.TextProcessor" />
         <item itemvalue="Application.DayOfTheWeek" />
-        <item itemvalue="Application.Testing" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564276933451</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Overriding and Overloading methods in an inheritance context">
+      <created>1564366002902</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1564366002902</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -294,7 +302,8 @@
     <MESSAGE value="Tips to loop through strings and changing its values" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Inheritance and password validator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance and password validator" />
+    <MESSAGE value="Overriding and Overloading methods in an inheritance context" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overriding and Overloading methods in an inheritance context" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
