@@ -7,7 +7,7 @@ public class TasteTester {
         birth.setPrice(50);
 
         System.out.println("The BirthdayCake is " + birth.getFlavor() + " and the price is " + birth.getPrice());
-        
+
         WeddingCake wed = new WeddingCake();
         wed.setPrice(45);
 

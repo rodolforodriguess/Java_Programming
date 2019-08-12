@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Overriding and Overloading methods in an inheritance context">
-      <change afterPath="$PROJECT_DIR$/src/chapter9/TasteTester.java" afterDir="false" />
+    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Practsing Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/chapter12/CollectionsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/TasteTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/TasteTester.java" afterDir="false" />
     </list>
     <list id="f9d9bf0c-88a4-4b6d-a692-4b9749e5922e" name="Revert: Dollar game done sucessfully" comment="Revert: Dollar game done sucessfull" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +50,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="chapter11" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chapter3" />
     </key>
@@ -65,29 +69,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TasteTester">
+  <component name="RunManager" selected="Application.CollectionsDemo">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter7.DayOfTheWeek" />
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.CollectionsDemo" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9.InheritanceTester" />
+    <configuration name="MarketClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.MarketClass" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8.PasswordValidator" />
+    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.ShapeTester" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -102,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8.TextProcessor" />
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.Zoo" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -124,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DayOfTheWeek" />
-      <item itemvalue="Application.TextProcessor" />
-      <item itemvalue="Application.PasswordValidator" />
-      <item itemvalue="Application.InheritanceTester" />
       <item itemvalue="Application.TasteTester" />
+      <item itemvalue="Application.Zoo" />
+      <item itemvalue="Application.MarketClass" />
+      <item itemvalue="Application.ShapeTester" />
+      <item itemvalue="Application.CollectionsDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsDemo" />
+        <item itemvalue="Application.ShapeTester" />
+        <item itemvalue="Application.MarketClass" />
+        <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.TasteTester" />
-        <item itemvalue="Application.InheritanceTester" />
-        <item itemvalue="Application.PasswordValidator" />
-        <item itemvalue="Application.TextProcessor" />
-        <item itemvalue="Application.DayOfTheWeek" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +247,28 @@
       <option name="project" value="LOCAL" />
       <updated>1564366002902</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Practsing Inheritance">
+      <created>1564452712051</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1564452712051</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Practicing Polimorphism">
+      <created>1564964840184</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1564964840184</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Abstraction">
+      <created>1565144569979</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1565144569979</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -303,7 +328,10 @@
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Inheritance and password validator" />
     <MESSAGE value="Overriding and Overloading methods in an inheritance context" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overriding and Overloading methods in an inheritance context" />
+    <MESSAGE value="Practsing Inheritance" />
+    <MESSAGE value="Practicing Polimorphism" />
+    <MESSAGE value="Abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstraction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
