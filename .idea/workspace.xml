@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Loooping through colletictions">
-      <change afterPath="$PROJECT_DIR$/src/chapter14/Coin.java" afterDir="false" />
+    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Dealing with exceptions as well as the final project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter7/LotterytTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/LotterytTicket.java" afterDir="false" />
     </list>
     <list id="f9d9bf0c-88a4-4b6d-a692-4b9749e5922e" name="Revert: Dollar game done sucessfully" comment="Revert: Dollar game done sucessfull" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,13 +67,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Coin">
+  <component name="RunManager" selected="Application.CoinTossGame">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <configuration name="Coin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter14.Coin" />
+      <module name="java_course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinTossGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.CoinTossGame" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -90,16 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.ExceptionHandling" />
-      <module name="java_course" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadingGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12.ReadingGrades" />
+    <configuration name="LetterSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.LetterSearch" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -128,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReadingGrades" />
-      <item itemvalue="Application.ExceptionHandling" />
       <item itemvalue="Application.DivisionIsFun" />
       <item itemvalue="Application.RollingADie" />
       <item itemvalue="Application.Coin" />
+      <item itemvalue="Application.LetterSearch" />
+      <item itemvalue="Application.CoinTossGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoinTossGame" />
+        <item itemvalue="Application.LetterSearch" />
         <item itemvalue="Application.Coin" />
         <item itemvalue="Application.RollingADie" />
         <item itemvalue="Application.DivisionIsFun" />
-        <item itemvalue="Application.ExceptionHandling" />
-        <item itemvalue="Application.ReadingGrades" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565661621038</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Dealing with exceptions as well as the final project">
+      <created>1566263518262</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1566263518262</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -347,10 +352,18 @@
     <MESSAGE value="Abstraction" />
     <MESSAGE value="Loooping through colletictions" />
     <MESSAGE value="Exercises with maps which are kind of a collection in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercises with maps which are kind of a collection in Java" />
+    <MESSAGE value="Dealing with exceptions as well as the final project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dealing with exceptions as well as the final project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter4/LetterSearch.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" log-message="true" type="java-exception" />
       </default-breakpoints>
