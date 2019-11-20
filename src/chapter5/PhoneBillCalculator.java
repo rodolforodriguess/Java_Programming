@@ -18,7 +18,7 @@ public class PhoneBillCalculator {
         double overageCharges = calculateOverages(overageMinutes);
         double tax = calculateTax(baseCost + overageCharges);
 
-        calculateAndPrintBiil(baseCost, overageCharges, tax);
+        calculateAndPrintBill(baseCost, overageCharges, tax);
         scanner.close();
     }
 
@@ -35,7 +35,7 @@ public class PhoneBillCalculator {
         return tax;
     }
 
-    public static void calculateAndPrintBiil(double base, double overage, double tax){
+    public static void calculateAndPrintBill(double base, double overage, double tax){
         double finalTotal = base + overage + tax;
 
         System.out.println("Phone Bill Statement");

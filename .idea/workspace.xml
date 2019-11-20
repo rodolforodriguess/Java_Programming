@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Dealing with exceptions as well as the final project">
+    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Final Exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/PhoneBillCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/PhoneBillCalculator.java" afterDir="false" />
     </list>
     <list id="f9d9bf0c-88a4-4b6d-a692-4b9749e5922e" name="Revert: Dollar game done sucessfully" comment="Revert: Dollar game done sucessfull" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CoinTossGame">
+  <component name="RunManager" selected="Application.Zoo">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -82,14 +85,6 @@
     </configuration>
     <configuration name="CoinTossGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter14.CoinTossGame" />
-      <module name="java_course" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DivisionIsFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.DivisionIsFun" />
       <module name="java_course" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -112,6 +107,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.Zoo" />
+      <module name="java_course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -126,19 +129,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DivisionIsFun" />
       <item itemvalue="Application.RollingADie" />
       <item itemvalue="Application.Coin" />
       <item itemvalue="Application.LetterSearch" />
       <item itemvalue="Application.CoinTossGame" />
+      <item itemvalue="Application.Zoo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.CoinTossGame" />
         <item itemvalue="Application.LetterSearch" />
         <item itemvalue="Application.Coin" />
         <item itemvalue="Application.RollingADie" />
-        <item itemvalue="Application.DivisionIsFun" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566263518262</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Final Exercise">
+      <created>1566442249266</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1566442249266</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -353,7 +363,8 @@
     <MESSAGE value="Loooping through colletictions" />
     <MESSAGE value="Exercises with maps which are kind of a collection in Java" />
     <MESSAGE value="Dealing with exceptions as well as the final project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dealing with exceptions as well as the final project" />
+    <MESSAGE value="Final Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -362,6 +373,11 @@
           <url>file://$PROJECT_DIR$/src/chapter4/LetterSearch.java</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter4/Flight.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

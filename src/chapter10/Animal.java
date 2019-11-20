@@ -5,3 +5,4 @@ public class Animal {
         System.out.println("unknown animal sound");
     }
 }
+
