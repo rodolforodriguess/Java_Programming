@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Polimorphism" />
+    <list default="true" id="5b757d96-3833-4fe2-8120-452f73803d36" name="Default" comment="Zoo">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/META-INF/java_course.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter10/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter10/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter10/Banana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter10/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter10/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter10/Fruit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter10/MarketClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter10/Zoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter11/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter11/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter11/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter11/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter11/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter11/ShapeTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter12/CollectionsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter12/ReadingGrades.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter12/TestResults.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter13/DivisionIsFun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter13/ExceptionHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter14/Coin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter14/CoinTossGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter14/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter6/HomeAreaCalculatorRedo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter6/Month.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter6/MonthConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter7/DayOfTheWeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter7/Grades.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter7/LotterytTicket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter7/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter8/PasswordValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter8/TextProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/BirthdayCake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/Cake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/InheritanceTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/Mother.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/TasteTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/WeddingCake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_course/chapter9/Woman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/TestResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/DivisionIsFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/MonthConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/BirthdayCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/WeddingCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="f9d9bf0c-88a4-4b6d-a692-4b9749e5922e" name="Revert: Dollar game done sucessfully" comment="Revert: Dollar game done sucessfull" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -300,7 +365,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574278397664</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Zoo">
+      <created>1574278795923</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1574278795923</updated>
+    </task>
+    <task id="LOCAL-00023" summary="chapter 10">
+      <created>1574278866338</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1574278866338</updated>
+    </task>
+    <task id="LOCAL-00024" summary="chapter 11">
+      <created>1574279051047</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1574279051047</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -368,7 +454,10 @@
     <MESSAGE value="Dealing with exceptions as well as the final project" />
     <MESSAGE value="Final Exercise" />
     <MESSAGE value="Polimorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polimorphism" />
+    <MESSAGE value="Zoo" />
+    <MESSAGE value="chapter 10" />
+    <MESSAGE value="chapter 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
